@@ -1,0 +1,6 @@
+
+YEAR LEAF = 29 February
+INPUT = February 29 is a leap year
+IF The year runs out in 4 and doesn't run out in 100
+OR
+IF the year is divided into 4, it is divided into 100 and divided by 400

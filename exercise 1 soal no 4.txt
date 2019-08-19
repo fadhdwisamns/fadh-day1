@@ -1,0 +1,6 @@
+
+STUDENTS = 40
+TEACHER
+
+if === Long nails: the teacher punishes it
+IF! == long nails: the teacher compliments he

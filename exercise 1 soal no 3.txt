@@ -1,0 +1,5 @@
+WASHING MACHINE
+
+FOXIE wash clothes = 20
+
+The washing machine will turn on if all Foxie clothes have entered the washing machine
